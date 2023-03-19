@@ -1,4 +1,4 @@
-module github.com/HaziranPartnera/oracle
+module github.com/bulenttokuzlu/oracle
 
 go 1.19
 

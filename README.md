@@ -39,4 +39,4 @@ func main() {
 ```
 
 
-go mod init github.com/HaziranPartnera/oracle
+go mod init github.com/bulenttokuzlu/oracle
